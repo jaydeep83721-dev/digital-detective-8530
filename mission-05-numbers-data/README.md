@@ -231,4 +231,6 @@ mission-05-numbers-data/
 
 **Repository:** https://github.com/jaydeep83721-dev/digital-detective-8530
 
-**Push verification:** To be completed after committing and pushing Mission 5.
+**Commit:** `e052327` — Build number converter and practise data representation.
+
+**Push verification:** Successfully pushed to GitHub.

@@ -154,4 +154,6 @@ The README includes:
 
 **Repository:** https://github.com/jaydeep83721-dev/digital-detective-8530
 
-**Push status:** To be verified after committing Mission 7.
+**Commit:** `0708b31` — Explain networking concepts and website communication.
+
+**Push status:** Successfully pushed to GitHub.

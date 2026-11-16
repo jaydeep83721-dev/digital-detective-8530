@@ -38,17 +38,76 @@ Every mission will be completed and committed separately to maintain a clear ver
 
 The `evidence/` directory will contain relevant screenshots and outputs when required.
 
+## Topics Explored
+
+Throughout this assignment, I explored:
+
+- Computer fundamentals, hardware, software, and IPOS.
+- Terminal commands and file management.
+- Operating systems, processes, memory, and permissions.
+- Python programming, compilers, and interpreters.
+- Binary, decimal, hexadecimal, ASCII, and UTF-8.
+- Git, GitHub, branches, and Pull Requests.
+- Computer networks, DNS, and website communication.
+
+## How to Run the Number Converter
+
+The Python number converter is located in the
+`mission-05-numbers-data` directory.
+
+### Steps
+
+1. Open Terminal inside the repository.
+2. Navigate to the converter directory:
+
+```bash
+cd mission-05-numbers-data
+```
+
+3. Run the program:
+
+```bash
+python3 number_converter.py
+```
+
+4. Enter a decimal number when prompted.
+
+The program displays the number in binary and hexadecimal.
+
+### Example
+
+Input: 13
+
+Output:
+
+```text
+Binary: 0b1101
+Hexadecimal: 0xd
+```
+
+## Learning Summary
+
+This assignment helped me understand how computers manage
+information, files, processes, and network communication.
+
+I gained practical experience using Terminal commands,
+writing Python programs, converting number systems, and
+managing development work through Git and GitHub.
+
+Each mission was documented and committed separately
+to maintain a clear version history.
+
 ## Progress
 
-- [ ] Mission 0 — GitHub Workspace Setup
-- [ ] Mission 1 — Computer Basics
-- [ ] Mission 2 — Terminal
-- [ ] Mission 3 — Operating Systems
-- [ ] Mission 4 — Programs
-- [ ] Mission 5 — Numbers and Data
-- [ ] Mission 6 — Git and GitHub
-- [ ] Mission 7 — Networking
-- [ ] Mission 8 — Final Report
+- [x] Mission 0 — GitHub Workspace Setup
+- [x] Mission 1 — Computer Basics
+- [x] Mission 2 — Terminal
+- [x] Mission 3 — Operating Systems
+- [x] Mission 4 — Programs
+- [x] Mission 5 — Numbers and Data
+- [x] Mission 6 — Git and GitHub
+- [x] Mission 7 — Networking
+- [x] Mission 8 — Final Report
 
 ## Repository
 
