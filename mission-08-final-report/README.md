@@ -165,9 +165,9 @@ I avoided including private computer, account, and network information in the su
 
 **Mission 8 final commit message:** `Finalize Digital Detective assignment`
 
-**Final commit hash:** To be recorded after committing.
+**Assignment submission commit:** `990b5f2` — Finalize Digital Detective assignment.
 
-**Final push status:** To be confirmed after pushing to GitHub.
+**Final push status:** Successfully pushed to GitHub.
 
 **Repository:**
 
