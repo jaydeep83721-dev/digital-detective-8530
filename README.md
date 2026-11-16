@@ -55,3 +55,13 @@ The `evidence/` directory will contain relevant screenshots and outputs when req
 Repository Name: `digital-detective-8530`
 
 This repository is publicly hosted on GitHub for assignment documentation and review.
+
+## My Learning
+
+Throughout the Digital Detective assignment, I have gained practical experience with computer systems and development tools.
+
+1. **Operating Systems:** I learned how macOS manages running processes, memory, files, and permissions. I also explored process IDs (PIDs) and filesystem paths using Terminal commands.
+
+2. **Terminal and File Management:** I learned how to navigate directories, create and modify files, use command-line flags, and connect commands through pipes.
+
+3. **Python and Data Representation:** I learned how binary, decimal, and hexadecimal number systems work, and built a Python program to convert decimal numbers into binary and hexadecimal representations.
